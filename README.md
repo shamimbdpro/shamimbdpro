@@ -20,7 +20,7 @@ I am a **Front End developer**. I love to create pretty and well-functioning pro
 
 ![apelmahmud's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shamimbdpro&theme=onedark&hide_border=true)
 
-![apelmahmud's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apelmahmudDev&theme=onedark&show_icons=true&hide_border=true&layout=compact)
+![apelmahmud's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shamimbdpro&theme=onedark&show_icons=true&hide_border=true&layout=compact)
 
 ### Connect with me:
 
