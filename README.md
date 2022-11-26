@@ -23,5 +23,4 @@ I am a **Front End developer**. I love to create pretty and well-functioning pro
 ![apelmahmud's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shamimbdpro&theme=onedark&show_icons=true&hide_border=true&layout=compact)
 
 ### Connect with me:
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://web.facebook.com/apelmahmudDev/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/apelmahmuddev/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/01739801364)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/apelmahmuddev/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/+8801794939992)
